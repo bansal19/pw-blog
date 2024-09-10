@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     default: 'Shardul\'s Blog ',
     template: '%s | Next.js Portfolio Starter',
   },
-  description: 'This is my portfolio.',
+  description: 'This is my blog.',
   openGraph: {
     title: 'Shardul\'s Thoughts',
     description: 'place for my thoughts',
@@ -47,7 +47,7 @@ export default function RootLayout({
     <html
       lang="en"
       className={cx(
-        'text-black bg-white dark:text-white dark:bg-black',
+        'text-white bg-black dark',
         GeistSans.variable,
         GeistMono.variable
       )}
