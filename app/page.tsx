@@ -7,8 +7,8 @@ export default function Page() {
         Hey 👋 &nbsp; I'm Shardul
       </h1>
       <p className="mb-4">
-        I deeply value being present.
-        Place for my thoughts ⤵
+        
+        This is a place for my thoughts. ⤵
       </p>
       <div className="my-8">
         <BlogPosts />
