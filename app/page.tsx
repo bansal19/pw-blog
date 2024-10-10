@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Hey 👋 &nbsp; I'm Shardul
+        👋 I'm Shardul
       </h1>
       <p className="mb-4">
         
